@@ -77,7 +77,7 @@ public final class iamCooperL {
 ## `> contribution --visualize`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamliyangjing&bg_color=0D1117&color=CBD5E1&line=8B5CF6&point=22D3EE&area=true&hide_border=true" width="96%" alt="Contribution graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamliyangjing&theme=github_dark" width="96%" alt="Contribution summary" />
 </p>
 
 <!-- Enable the snake.yml GitHub Action in this repository before uncommenting this image. -->
@@ -90,3 +90,5 @@ public final class iamCooperL {
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:7C3AED&height=110&section=footer" width="100%" alt="Footer" />
 </p>
+
+
