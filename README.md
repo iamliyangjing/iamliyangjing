@@ -1,38 +1,92 @@
-iamCooperL
+<!-- Cyberpunk profile README for iamCooperL -->
 
-Java 后端开发者，关注 Spring、分布式系统、RPC 与性能优化。
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=220&section=header&text=iamCooperL&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20%7C%20RPC%20%7C%20Distributed%20Systems&descAlignY=61&descSize=18" width="100%" alt="iamCooperL banner" />
+</p>
 
-[个人主页](https://iamliyangjing.github.io) · [GitHub](https://github.com/iamliyangjing)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Java+Backend+Developer;Spring+%7C+RPC+%7C+JVM+%7C+Distributed+Systems;Building+systems%2C+one+commit+at+a+time" alt="Typing animation" />
+</p>
 
-## About Me
+<p align="center">
+  <a href="https://iamliyangjing.github.io"><img src="https://img.shields.io/badge/Portfolio-iamliyangjing.github.io-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/iamliyangjing"><img src="https://img.shields.io/badge/GitHub-iamliyangjing-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-- Java / Spring Boot 后端开发
-- 关注 MySQL、Redis、RabbitMQ、JVM 与并发
-- 正在学习 RPC、分布式系统与高性能服务设计
-- 喜欢通过源码阅读和手写项目提升工程能力
+<br />
 
-## Selected Projects
+## `> whoami`
 
-### [My-Rpc](https://github.com/iamliyangjing/My-Rpc)
+```java
+public final class iamCooperL {
+  static final String ROLE = "Java Backend Developer";
+  static final String FOCUS = "Spring · RPC · Distributed Systems";
+  static final String MINDSET = "Read deeply. Build small. Ship often.";
+}
+```
 
-手写 RPC 框架，学习网络通信、序列化与服务调用。
+> I build backend projects to understand how the pieces work under the hood.
+> Current focus: Spring internals, RPC, concurrency, JVM and high-performance services.
 
-### [write-spring](https://github.com/iamliyangjing/write-spring)
+## `> tech --list`
 
-手写 Spring 核心功能，包含 IOC、AOP 与三级缓存。
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,rabbitmq,kafka,docker,linux,git,idea&perline=10" alt="Tech stack" />
+</p>
 
-### [code-study](https://github.com/iamliyangjing/code-study)
+## `> ./featured-projects`
 
-Java 刷题、并发、JVM 与后端开发学习笔记。
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/iamliyangjing/My-Rpc">My-Rpc</a></h3>
+      <p>手写 RPC 框架，探索网络通信、序列化、服务调用与扩展设计。</p>
+      <code>Java</code> <code>RPC</code> <code>Netty</code>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/iamliyangjing/write-spring">write-spring</a></h3>
+      <p>手写 Spring 核心功能，包含 IOC、AOP 与三级缓存。</p>
+      <code>Java</code> <code>Spring</code> <code>AOP</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/iamliyangjing/code-study">code-study</a></h3>
+      <p>Java 刷题、并发、JVM 与后端开发学习笔记。</p>
+      <code>Java</code> <code>JVM</code> <code>Algorithms</code>
+    </td>
+    <td width="50%">
+      <h3><a href="https://iamliyangjing.github.io">Personal Homepage</a></h3>
+      <p>暗色霓虹风个人主页，集中展示项目与技术方向。</p>
+      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+    </td>
+  </tr>
+</table>
 
-### [个人主页](https://iamliyangjing.github.io)
+## `> github --stats`
 
-基于 HTML、CSS 和 JavaScript 制作的个人作品展示页。
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iamliyangjing&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=CBD5E1" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamliyangjing&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=8B5CF6&text_color=CBD5E1" alt="Top languages" />
+</p>
 
-## Tech Stack
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamliyangjing&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=64748B" alt="GitHub streak" />
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+## `> contribution --visualize`
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamliyangjing&bg_color=0D1117&color=CBD5E1&line=8B5CF6&point=22D3EE&area=true&hide_border=true" width="96%" alt="Contribution graph" />
+</p>
+
+<!-- Enable the snake.yml GitHub Action in this repository before uncommenting this image. -->
+<!--
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iamliyangjing/iamliyangjing/output/github-contribution-grid-snake-dark.svg" width="96%" alt="Contribution snake" />
+</p>
+-->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:7C3AED&height=110&section=footer" width="100%" alt="Footer" />
+</p>
